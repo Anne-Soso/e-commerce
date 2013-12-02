@@ -5,7 +5,7 @@ L’objectif du travail est de proposer une nouvelle interface avec une identit�
 
 ##Pages à faire 
 - [la home page](http://www.shop.etudesetvie.be) ;
-- [une page de catégorie](http://www.shop.etudesetvie.be/category.php?id_category=62) ;
+- [une page de catégorie](http://www.shop.etudesetvie.be/category.php?id_category=62) => liste de produits;
 - [une page de produit](http://www.shop.etudesetvie.be/product.php?id_product=199) ; 
 - la séquence d’achat : http://www.shop.etudesetvie.be/order.php ; http://www.shop.etudesetvie.be/order.php?step=1 ; http://www.shop.etudesetvie.be/authentication.php ; etc.
 - [des pages de CMS](http://www.shop.etudesetvie.be/cms.php?id_cms=1) => conditions générales de ventes, envois, etc... ;
