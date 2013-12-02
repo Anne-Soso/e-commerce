@@ -4,7 +4,7 @@ Le site est actuellement réalisé avec Prestashop et son thème de base.
 L’objectif du travail est de proposer une nouvelle interface avec une identité personnalisée.
 
 ##Pages à faire 
-- [la home page](http://www.shop.etudesetvie.be) ;
+- [la home page](http://www.shop.etudesetvie.be) => mise en évidence des produits et de l'atmosphère générale ;
 - [une page de catégorie](http://www.shop.etudesetvie.be/category.php?id_category=62) => liste de produits;
 - [une page de produit](http://www.shop.etudesetvie.be/product.php?id_product=199) ; 
 - la séquence d’achat : http://www.shop.etudesetvie.be/order.php ; http://www.shop.etudesetvie.be/order.php?step=1 ; http://www.shop.etudesetvie.be/authentication.php ; etc.
